@@ -82,17 +82,17 @@ You can find my list of available commands with /help.
 HELP_STRINGS = """
 *Main* commands available [:](https://telegra.ph/file/418fe04d27f1fb02788e3.png)
 
- • /help: PM's you this message.
- • /help <module name>: PM's you info about that module.
- • /settings:
-   • in PM: will send you your settings for all supported modules.
-   • in a group: will redirect you to pm, with all that chat's settings.
+ ◉ /help: PM's you this message.
+ ◉ /help <module name>: PM's you info about that module.
+ ◉ /settings:
+   ◉ in PM: will send you your settings for all supported modules.
+   ◉ in a group: will redirect you to pm, with all that chat's settings.
 """.format(
     dispatcher.bot.first_name,
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/e4b3dc747eb56dca07797.png"
+SAITAMA_IMG = "https://telegra.ph/file/0a15796cd0cb410a002e5.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
@@ -214,26 +214,26 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                         InlineKeyboardButton(
-                            text=" 👑 Summon Me ",
+                            text="Aᴅᴅ Mᴇ 🎉",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username)),
                          InlineKeyboardButton(
-                             text=" 🔔 Updates ",
-                             url="https://t.me/SenkuUpdates")
+                             text="Uᴘᴅᴀᴛᴇs 📢",
+                             url="https://t.me/TG_BotZ")
                      ],
                      [
                         InlineKeyboardButton(
-                            text=" ✨ Help ",
+                            text="Hᴇʟᴘ ❔",
                             url="https://t.me/SenkuRobot?start=help"),
                          InlineKeyboardButton(
-                            text=" ⚡️ Get Started ",
-                             url="https://t.me/SenkuUpdates/4")        
+                            text="Cʀᴇᴀᴛᴏʀ 🔱",
+                             url="https://t.me/THERA_BAAP_VILLAIN_XD")        
                        
                      ],
                      [
                         InlineKeyboardButton(
-                             text=" ❤️ Source Code ",
-                             url="https://github.com/FtSasaki/SenkuRobot")
+                             text="Sᴏᴜʀᴄᴇ 🔖",
+                             url="https://t.me/THERA_BAAP_VILLAIN_XD")
                     
                     ]
                    ]
@@ -241,7 +241,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code>".format(
+            "Heya! Am Alive (◍•ᴗ•◍)".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
