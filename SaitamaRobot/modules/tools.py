@@ -32,4 +32,4 @@ Report bugs at @SenkuSupport.
 
 """
 
-__mod_name__ = "Elisa Special 💞"
+__mod_name__ = "Elisa Special"
