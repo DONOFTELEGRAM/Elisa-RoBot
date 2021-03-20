@@ -374,7 +374,7 @@ def get_help(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Help",
+                            text="Help ❔",
                             url="t.me/{}?start=help".format(context.bot.username),
                         )
                     ]
@@ -395,7 +395,7 @@ def get_help(update: Update, context: CallbackContext):
             chat.id,
             text,
             InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="Back", callback_data="help_back")]]
+                [[InlineKeyboardButton(text="⬅️ Back", callback_data="help_back")]]
             ),
         )
 
