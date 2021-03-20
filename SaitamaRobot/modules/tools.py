@@ -56,8 +56,8 @@ __help__ = f"""
 
  
 
-Report bugs at @SenkuSupport.
+Report bugs at @ElisaSupportChats.
 
 """
 
-__mod_name__ = "Tools"
+__mod_name__ = "Elisa Special"
