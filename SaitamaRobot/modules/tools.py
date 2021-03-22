@@ -60,4 +60,4 @@ Report bugs at @ElisaSupportChats.
 
 """
 
-__mod_name__ = "Elisa Special"
+__mod_name__ = "Eʟɪsᴀ Sᴘᴇᴄɪᴀʟ"
