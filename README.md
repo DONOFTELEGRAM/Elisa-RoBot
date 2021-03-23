@@ -15,10 +15,10 @@
 <a href="http://hits.dwyl.com/ftsasaki/senkurobot" alt="HitCount"> <img src="http://hits.dwyl.com/ftsasaki/senkurobot.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/ftsasaki/senkurobot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/ftsasaki/senkurobot?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/ftsasaki/senkurobot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/animekaizoku/saitamarobot" /> </a>
-<a href="https://github.com/ftsasaki/senkurobot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/ftsasaki/senkurobot?style=flat&logo=github" /> </a>
-<a href="https://github.com/ftsasaki/senkurobot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/ftsasaki/senkurobot?label=Forks&logo=github" /> </a>
+<a href="https://github.com/DONOFTELEGRAM/Elisa-Robot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/ftsasaki/senkurobot?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/DONOFTELEGRAM/Elisa-Robot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/animekaizoku/saitamarobot" /> </a>
+<a href="https://github.com/DONOFTELEGRAM/Elisa-Robot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/DONOFTELEGRAM/Elisa-Robot?style=flat&logo=github" /> </a>
+<a href="https://github.com/ftsasaki/senkurobot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/DONOFTELEGRAM/Elisa-Robot?label=Forks&logo=github" /> </a>
 <a href="https://github.com/ftsasaki/senkurobot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/ftsasaki/senkurobot?color=success" /> </a>
 <a href="https://github.com/ftsasaki/senkurobot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/ftsasaki/senkurobot?style=flat&logo=github&color=yellow" /> </a>
 </p>
