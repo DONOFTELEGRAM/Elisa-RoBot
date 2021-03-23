@@ -39,7 +39,7 @@
 
 
 
-Senku is a simple senku solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
+Elisa is a simple solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
 
 * Bot Link:  <a href="https://telegram.dog/elizarobot" alt="Elisa Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-ElisaRobot-blue" /> </a>
 * News channel: <a  href="https://telegram.dog/TG_BotZ" alt="Elisa Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Elisa%20Updates-9cf" /> </a>
