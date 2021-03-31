@@ -224,7 +224,7 @@ def start(update: Update, context: CallbackContext):
                      [
                         InlineKeyboardButton(
                             text="Hᴇʟᴘ ❔",
-                            url="https://t.me/ElizaRobot?start=help"),
+                            url="https://t.me/SupMarioRoBot?start=help"),
                          InlineKeyboardButton(
                             text="Cʀᴇᴀᴛᴏʀ 🔱",
                              url="https://t.me/THERA_BAAP_VILLAIN_XD")        
@@ -358,7 +358,7 @@ def get_help(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="Help",
+                                text="Help ❔",
                                 url="t.me/{}?start=ghelp_{}".format(
                                     context.bot.username, module
                                 ),
