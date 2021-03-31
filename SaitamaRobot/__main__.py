@@ -76,11 +76,11 @@ PM_START_TEXT = """
 Hi {}, my name is {}! 
 I am an Anime themed group management bot.
 Build by weebs for weebs, I specialize in managing anime and similar themed groups.
-You can find my list of available commands with /help.
+
 """
 
 HELP_STRINGS = """
-*Main* commands available [:](https://telegra.ph/file/27fe34da59737c785aaf5.jpg)
+*Main* commands available [:](https://telegra.ph/file/a3e0a86951a821191b5ca.jpg)
 
  ◉ /help: PM's you this message.
  ◉ /help <module name>: PM's you info about that module.
@@ -92,10 +92,10 @@ HELP_STRINGS = """
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/0a15796cd0cb410a002e5.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/4cb809a28bcd2296359b0.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
+ You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @TERA_BAAP_VILLAIN_XD \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at @OnePunchDev."""
 
