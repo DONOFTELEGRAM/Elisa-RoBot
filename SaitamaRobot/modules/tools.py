@@ -60,4 +60,4 @@ Report bugs at @ElisaSupportChats.
 
 """
 
-__mod_name__ = "Mario Special
+__mod_name__ = "Mario Special"
