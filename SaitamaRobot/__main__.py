@@ -80,7 +80,7 @@ Build by weebs for weebs, I specialize in managing anime and similar themed grou
 """
 
 HELP_STRINGS = """
-*Main* commands available [:](https://telegra.ph/file/a3e0a86951a821191b5ca.jpg)
+*Main* commands available [:]()
 
  ◉ /help: PM's you this message.
  ◉ /help <module name>: PM's you info about that module.
